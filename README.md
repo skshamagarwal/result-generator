@@ -10,7 +10,7 @@
   <h3 align="center">Result Generator</h3>
 
   <p align="center">
-    Application that generates report from Excel or CSV data of students!
+    Application that generates Report Card/Result from Excel or CSV data of students!
     <br />
     <br />
     <a href="https://github.com/skshamagarwal/result-generator"><strong>Explore the docs »</strong></a>
